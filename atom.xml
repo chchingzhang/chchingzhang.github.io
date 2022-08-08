@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chchingzhang.github.io</id>
+    <title>等一个人读书-赏析</title>
+    <updated>2022-08-08T03:30:46.165Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chchingzhang.github.io"/>
+    <link rel="self" href="https://chchingzhang.github.io/atom.xml"/>
+    <subtitle>你若问我是个什么样的人？
+我是个春天种树，秋天扫落叶的人。</subtitle>
+    <logo>https://chchingzhang.github.io/images/avatar.png</logo>
+    <icon>https://chchingzhang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 等一个人读书-赏析</rights>
+    <entry>
+        <title type="html"><![CDATA[【读首诗再睡觉】余光中：满月下（花一程）]]></title>
+        <id>https://chchingzhang.github.io/du-shou-shi-zai-shui-jue-yu-guang-zhong-man-yue-xia-hua-yi-cheng/</id>
+        <link href="https://chchingzhang.github.io/du-shou-shi-zai-shui-jue-yu-guang-zhong-man-yue-xia-hua-yi-cheng/">
+        </link>
+        <updated>2022-08-04T06:07:50.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height="100%" align="middle" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553823782&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></summary>
+        <content type="html"><![CDATA[<iframe height="100%" align="middle" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553823782&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【读首诗再睡觉】有时候生活真会欺骗你（花一程）]]></title>
+        <id>https://chchingzhang.github.io/du-shou-shi-zai-shui-jue-you-shi-hou-sheng-huo-zhen-hui-qi-pian-ni-hua-yi-cheng/</id>
+        <link href="https://chchingzhang.github.io/du-shou-shi-zai-shui-jue-you-shi-hou-sheng-huo-zhen-hui-qi-pian-ni-hua-yi-cheng/">
+        </link>
+        <updated>2022-08-04T06:07:06.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553823832&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></summary>
+        <content type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553823832&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【自控心理学】换个视角可以看到不一样的风景（花一程）]]></title>
+        <id>https://chchingzhang.github.io/zi-kong-xin-li-xue-huan-ge-shi-jiao-ke-yi-kan-dao-bu-yi-yang-de-feng-jing-hua-yi-cheng/</id>
+        <link href="https://chchingzhang.github.io/zi-kong-xin-li-xue-huan-ge-shi-jiao-ke-yi-kan-dao-bu-yi-yang-de-feng-jing-hua-yi-cheng/">
+        </link>
+        <updated>2022-08-04T06:05:02.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553824101&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></summary>
+        <content type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553824101&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲁迅：此后如竟没有炬火，我便是唯一的光（蓝玉凝香）]]></title>
+        <id>https://chchingzhang.github.io/lesslessqing-tong-kui-hua-greatergreater-di-san-shi-jiu-ji-zui-hao-de-mian-hua-or-deng-yi-ge-ren-du-shu/</id>
+        <link href="https://chchingzhang.github.io/lesslessqing-tong-kui-hua-greatergreater-di-san-shi-jiu-ji-zui-hao-de-mian-hua-or-deng-yi-ge-ren-du-shu/">
+        </link>
+        <updated>2022-08-03T13:35:28.000Z</updated>
+        <summary type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553824164&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></summary>
+        <content type="html"><![CDATA[<iframe height="100%" width="100%" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=553824164&type=red" frameborder=0 allowfullscreen="true"></iframe>
+]]></content>
+    </entry>
+</feed>
